@@ -8,14 +8,15 @@ namespace VentasBarUPSA {
 	using namespace System::Windows::Forms;
 	using namespace System::Data;
 	using namespace System::Drawing;
-
+	using namespace VentasBarUPSA;
 	/// <summary>
 	/// Summary for MyForm
 	/// </summary>
 	public ref class Inicio : public System::Windows::Forms::Form
 	{
-
+		
 		// OBJETOS GLOBALES
+		
 		
 	public:
 		Inicio(void)
